@@ -9766,7 +9766,7 @@ h6,
 
 .navbar-light .navbar-nav .nav-link {
   font-family: 'Nunito', sans-serif;
-  font-weight: 400;
+  font-weight: 600;
   text-transform: uppercase;
   padding: 45px 15px;
   color: #222429;
@@ -9892,6 +9892,7 @@ h6,
   background: #222429;
   transition: .5s;
   opacity: 0;
+  padding: 10px;
 }
 
 .team-item:hover .team-overlay {
